@@ -75,7 +75,7 @@
                 <div class="flip-box">
                     <div class="flip-box-inner">
                         <div class="flip-box-front">
-                            <img src="/img/produto1-back.jpg" alt="Imagem Produto">
+                            <img src="/img/produto-back.jpg" alt="Imagem Produto">
                         </div>
                         <div class="flip-box-back">
                             <img src="/img/produto1.jpg" alt="Imagem Produto">
